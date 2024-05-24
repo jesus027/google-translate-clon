@@ -80,7 +80,6 @@ function useDebounce(value, delay) {
                 { id: "es", label: "Spanish" },
                 { id: "en", label: "English" },
                 { id: "fr", label: "French" },
-                { id: "all", label: "" },
             ]}
             />
             <RightTextArea
